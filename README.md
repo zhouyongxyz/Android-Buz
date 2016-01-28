@@ -59,3 +59,5 @@ Buz.getInstance().launch();
 Buz.getInstance().free(this,this.getClass());
 ```
 这一步一般在当前对象要被销毁前调用,如在Activity的onDestroy中调用.
+
+这就是Buz的所有教程,尽情的在任何地方毫无顾及的使用它吧.
