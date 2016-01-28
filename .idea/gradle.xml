@@ -9,14 +9,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/bus" />
+            <option value="$PROJECT_DIR$/buz" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/bus" />
+            <option value="$PROJECT_DIR$/buz" />
           </set>
         </option>
       </GradleProjectSettings>
